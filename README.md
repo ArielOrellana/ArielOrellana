@@ -16,6 +16,8 @@ class Person
 
 require_once(archivo_class);
 $Ariel = new Person(name:'Ariel', lastname:'Orellana', profession: 'Developer web PHP');
-
+echo 'GITHUB: https://github.com/ArielOrellana';
+echo 'Linkedin: https://www.linkedin.com/in/orellanaariel1998/';
+echo 'Personal Web: https://arielorellana.github.io/PortfolioArielOrellana/';
 ?>
 ```
