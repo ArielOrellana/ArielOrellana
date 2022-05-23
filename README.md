@@ -21,3 +21,6 @@ echo 'Linkedin: https://www.linkedin.com/in/orellanaariel1998/';
 echo 'Personal Web: https://arielorellana.github.io/PortfolioArielOrellana/';
 ?>
 ```
+GITHUB: https://github.com/ArielOrellana
+Linkedin: https://www.linkedin.com/in/orellanaariel1998/
+Personal Web: https://arielorellana.github.io/PortfolioArielOrellana/
