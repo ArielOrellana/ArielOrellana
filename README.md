@@ -1,3 +1,4 @@
+```php
 <?php
 class Person
 {
@@ -17,3 +18,4 @@ require_once(archivo_class);
 $Ariel = new Person(name:'Ariel', lastname:'Orellana', profession: 'Developer web PHP');
 
 ?>
+```
