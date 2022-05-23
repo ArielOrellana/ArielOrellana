@@ -9,7 +9,7 @@ class Person
  public function __construct($name, $lastname, $profession)
  {
      $this-> name = $name;
-     $this-> lastname = $apellido;
+     $this-> lastname = $lastname;
      $this-> profession = $profession;
  }
 }
