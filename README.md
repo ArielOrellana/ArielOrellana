@@ -1,4 +1,4 @@
-```js
+```php
 <?php
 class Person
 {
