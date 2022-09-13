@@ -1,4 +1,4 @@
-```php
+```monokai
 <?php
 class Person
 {
