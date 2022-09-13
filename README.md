@@ -34,5 +34,5 @@ echo 'Personal Web: https://arielorellana.github.io/PortfolioArielOrellana/';
 <p><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />: https://github.com/ArielOrellana
 <p><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>: https://gitlab.com/OrellanaAriel1998</p>
 <p><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />: https://www.linkedin.com/in/orellanaariel1998/</p>
-<p><img src="https://img.shields.io/badge/-My%20web-blueviolet" />: https://arielorellana.github.io/PortfolioArielOrellana/</p>
+<p><img src="https://img.shields.io/badge/My%20web-330F63?style=for-the-badge" />: https://arielorellana.github.io/PortfolioArielOrellana/</p>
 
